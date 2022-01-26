@@ -1,2 +1,2 @@
 #!/bin/bash
-delete_dir=$(readlink -f $1)
+echo pwd ..
