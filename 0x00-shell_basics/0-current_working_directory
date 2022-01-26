@@ -1,2 +1,2 @@
-#!/usr/bin/bash
+#!/bin/bash
 delete_dir=$(readlink -f $1)
