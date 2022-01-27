@@ -1,6 +1,6 @@
 # Shell, basics  
 
-	Throw this task I will be learning an introduction to the Shell
+	Throw this task I will be learning an introduction to the Shell commands
 
 ## General objectives:  
 	1. What is the shell  
