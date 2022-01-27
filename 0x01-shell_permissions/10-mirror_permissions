@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod hello olleh
+chmod --wxr-xr-- hello || chmod --wxr-xr-- olleh
