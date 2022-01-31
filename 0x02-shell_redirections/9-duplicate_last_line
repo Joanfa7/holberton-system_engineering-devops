@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -iacta \*.txt -ecec tail -2 {} \; 
+tail 
