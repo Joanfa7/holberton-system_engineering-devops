@@ -8,4 +8,12 @@
 	4. How to send the output form one program to the input of another program  
 	5. How to cobine cmmands and filters with redirections  
 	6. What are special characters  
-	7. Undestand what do the white space, single quotes, double quotes, backslach, comment, pipe, command separator, tilde an how and when to use them  
+	7. Undestand what do:
+		a. the white space  
+		b. single quotes  
+		c. double quotes  
+		d. backslach  
+		e. comment  
+		f. pipe  
+		g. command separator  
+		h. tilde an how and when to use them  
