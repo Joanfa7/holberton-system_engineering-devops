@@ -1,11 +1,14 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 10 times using if
-for f in {1..10}
+a=1
+while [ $a -le 10 ]
 do
-    if [[ $f == 9 ]]
+    if [[ $a == 9 ]]
     then
         echo "Hi";
+		((a++))
     else
         echo "Best School";
+		((a++))
     fi
 done
