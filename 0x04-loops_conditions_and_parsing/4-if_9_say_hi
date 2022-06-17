@@ -4,8 +4,8 @@ for f in {1..10}
 do
     if [[ $f == 9 ]]
     then
-        echo "Hi"
+        echo "Hi";
     else
-        echo "Best School"
+        echo "Best School";
     fi
 done
