@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
-#clock 
+# clock
 
 hours=0
 
 while [ $hours -le 12 ];
 do
-	echo "Hours: $hours"
+	echo "Hour: $hours"
 	min=1
 	while [ $min -le 59 ];
 	do
