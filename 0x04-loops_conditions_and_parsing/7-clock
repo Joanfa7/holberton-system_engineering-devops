@@ -3,11 +3,11 @@
 
 hours=0
 
-while [ $hours -le 12 ]
+while [ $hours -le 12 ];
 do
 	echo "Hours: $hours"
 	min=1
-	while [ $min -le 59 ]
+	while [ $min -le 59 ];
 	do
 		echo "$min"
 		((min++))

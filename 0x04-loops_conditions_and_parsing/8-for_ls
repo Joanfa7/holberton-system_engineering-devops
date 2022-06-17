@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# print dictionary
+
+for files in *
+do
+	echo "$file" | cut -f2 -d "-"
+done
