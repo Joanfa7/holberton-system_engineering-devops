@@ -29,4 +29,4 @@ What is a port
 Memorize SSH, HTTP and HTTPS port numbers
 What tool/protocol is often used to check if a device is connected to a network
 
-[Network](https://nerdynatelife.files.wordpress.com/2019/02/networking-infographic.png)
+![Network](https://nerdynatelife.files.wordpress.com/2019/02/networking-infographic.png)
