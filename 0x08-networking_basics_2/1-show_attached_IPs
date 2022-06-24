@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Display all actice IPv4 IPs on the machine it's executed
+
+ifconfig | grep -w 'inet' | awk '{print $2}'
