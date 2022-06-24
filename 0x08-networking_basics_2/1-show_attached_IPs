@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Get all ip address
 
-ifconfig | grep 'inet' | awk '{print $1}'
+ifconfig | grep 'inet'
