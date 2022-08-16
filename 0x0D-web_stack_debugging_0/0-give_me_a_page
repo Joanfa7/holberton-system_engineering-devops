@@ -1,2 +1,4 @@
+#!/usr/bin/env bash
 # start apache in the container
-sudo service apache2 start
+
+sudo service apache2 restart
