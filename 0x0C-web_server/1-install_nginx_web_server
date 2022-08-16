@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Install nginx web server
 
-sudo apt update;
+sudo apt update -y;
 sudo apt install -y nginx;
 sudo mkdir /etc/nginx/html;
 sudo touch /etc/nginx/html/index.html;
